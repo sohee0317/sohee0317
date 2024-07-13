@@ -8,7 +8,7 @@ Oracle 11g / MySQL 8 <br>
 Java Script ES6 <br>
 Linux (CentOS 8)
 
-![sohee0317's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sohee-Elizabeth-park&include_all_commits=true&show_icons=true&theme=radical)
+![sohee0317's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohee0317&include_all_commits=true&show_icons=true&theme=radical)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsohee0317&count_bg=%23F941F2&title_bg=%23604F64&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
