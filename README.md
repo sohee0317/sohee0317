@@ -2,11 +2,12 @@
 >Welcome To Sohee's GitHub 🙌🏻
 ---
 ### 🔧  ️Skill Set
-Java 11 / Spring 5 <br>
-Python 3 <br>
-Oracle 11g / MySQL 8 <br>
-Java Script ES6 <br>
-Linux (CentOS 8)
+Java / Spring / SpringBoot <br>
+Python <br>
+Oracle / MySQL <br>
+Html / CSS / Java Script ES6 <br>
+Linux (CentOS 8) <br>
+JavaSwing
 
 ![sohee0317's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohee0317&include_all_commits=true&show_icons=true&theme=radical)
 
