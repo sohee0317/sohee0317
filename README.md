@@ -3,8 +3,8 @@
 ---
 ### 🔧  ️Skill Set
 Java / Spring / SpringBoot <br>
-Python <br>
 Oracle / MySQL <br>
+Python <br>
 Html / CSS / Java Script ES6 <br>
 Linux (CentOS 8) <br>
 JavaSwing
