@@ -2,7 +2,7 @@
 >Welcome To Sohee's GitHub 🙌🏻
 ---
 ### 🔧  ️Skill Set
-Java / Spring / SpringBoot <br>
+Java / Spring MVC / SpringBoot <br>
 Oracle / MySQL <br>
 Python <br>
 Html / CSS / Java Script ES6 <br>
