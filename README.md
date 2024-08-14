@@ -4,10 +4,16 @@
 ### 🔧  ️Skill Set
 Java / Spring MVC / SpringBoot <br>
 Oracle / MySQL <br>
+AWS EC-2 <br>
 Python <br>
 Html / CSS / Java Script ES6 <br>
 Linux (CentOS 8) <br>
-JavaSwing
+JavaSwing <br>
+<br>
+Slack / Notion  <br>
+IntelliJ / Eclipse / STS4 <br>
+DBeaver <br>
+SVN / Git / GitHub <br>
 
 ![sohee0317's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohee0317&include_all_commits=true&show_icons=true&theme=radical)
 
