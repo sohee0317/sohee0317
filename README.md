@@ -12,7 +12,7 @@ JavaSwing <br>
 <br>
 Slack / Notion  <br>
 IntelliJ / Eclipse / STS4 <br>
-DBeaver <br>
+DBeaver / Postman / VSCode / <br>
 SVN / Git / GitHub <br>
 
 ![sohee0317's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohee0317&include_all_commits=true&show_icons=true&theme=radical)
